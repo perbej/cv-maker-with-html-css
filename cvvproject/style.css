@@ -1,0 +1,216 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(199, 243, 243);
+     
+             
+      
+     
+    
+        .roboto-light {
+            font-family: "Roboto", sans-serif;
+            font-weight: 300;
+            font-style: normal;
+        }
+    
+        .roboto-regular {
+            font-family: "Roboto", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+    
+        .roboto-medium {
+            font-family: "Roboto", sans-serif;
+            font-weight: 500;
+            font-style: normal;
+        }
+    
+        .roboto-bold {
+            font-family: "Roboto", sans-serif;
+            font-weight: 700;
+            font-style: normal;
+        }
+    
+        .roboto-black {
+            font-family: "Roboto", sans-serif;
+            font-weight: 900;
+            font-style: normal;
+        }
+    
+        .roboto-thin-italic {
+            font-family: "Roboto", sans-serif;
+            font-weight: 100;
+            font-style: italic;
+        }
+    
+        .roboto-light-italic {
+            font-family: "Roboto", sans-serif;
+            font-weight: 300;
+            font-style: italic;
+        }
+    
+        .roboto-regular-italic {
+            font-family: "Roboto", sans-serif;
+            font-weight: 400;
+            font-style: italic;
+        }
+    
+        .roboto-medium-italic {
+            font-family: "Roboto", sans-serif;
+            font-weight: 500;
+            font-style: italic;
+        }
+    
+        .roboto-bold-italic {
+            font-family: "Roboto", sans-serif;
+            font-weight: 700;
+            font-style: italic;
+        }
+    
+        .roboto-black-italic {
+            font-family: "Roboto", sans-serif;
+            font-weight: 900;
+            font-style: italic;
+        }
+}
+.contanier{
+    max-width: 1000px;
+    height: 100%;
+    
+    background-color: rgb(108, 239, 200);
+    margin: 0% auto;
+    padding: 20px
+}
+
+
+.profileimg{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+     
+
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: rgb(27, 2, 142);
+}
+.header-cont{
+    float: right;
+    padding: 30px;
+
+}
+.header-cont a{
+    text-decoration: none;
+    color: darkorange;
+    font-weight: bold;
+
+}
+.header-cont a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.clear-div{
+    clear: both;
+}
+hr{
+    border: solid black 3px;
+    width:1000px ;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.per{
+     
+}
+.p1{
+    float: right;
+    margin-right: 120px;
+    margin-top: -20px;
+}
+.hrr{
+    border: solid black 1px;
+        width: 1000px;
+        margin: 20px auto;
+        border-bottom: none;
+}
+.flt{
+    float: right;
+    margin-right: 250px;
+    margin-top: -20px;
+     
+}
+.fl{
+    float: right;
+    margin-right: 60px;
+}
+.fl4{
+    float: right;
+    margin-right: 105px;
+}
+.flt1{
+    float: right;
+     margin-right:250px;
+     padding-top: 5px;
+
+}
+.fl5{
+    float: right;
+    margin-right: 515px;
+    margin-top: -20px;
+
+
+}
+.flt3{
+    float: right;
+    margin-right: 70px;
+    padding-top: 5px;
+}
+.fl6{
+    float: right;
+    margin-right: 880px;
+    margin-top: -20px;
+    
+}
+.fo{
+    float: right;
+    margin-right: 600px;
+}
+.clear-div1{
+    clear: both;
+}
+.hrr1 {
+    border: solid black 1px;
+    width: 1000px;
+    margin: 10px auto;
+    border-bottom: none;
+    margin-top: 30px;
+}
+.left-div{
+    float: left;
+    width: 30%;
+
+}
+.right-div1{
+    float: right;
+   
+    margin-right: 50px;
+    margin-bottom: 1000px;
+
+
+}
+.right-div2{
+    float: right;
+    width: 40%;
+     
+
+
+}
+.left-div{
+    margin-left: 445px;
+}
